@@ -17,6 +17,7 @@ g++ -o run_sim main.cpp -std=c++11
 
 The last command follow format
 
+
 ./run_sim [type schedule][lambda value][average service time][quantum time]
 
 - Type of schedule will be chosen by number:
